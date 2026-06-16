@@ -90,6 +90,6 @@ All occurrence data, scripts, and supplementary material associated with the man
 ## Contact
 
 Átilas Rodrigues de Sousa
-
+atilasrodrigues28@alu.ufc.br
 Federal University of Ceará (UFC)
 
